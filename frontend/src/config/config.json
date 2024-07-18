@@ -1,0 +1,11 @@
+{
+  "11155111": {
+    "insureFiAutomobile": {
+      "address": "0xbD3EcB64d6B9c5CbED54D866b9601A1b0fAcAe22"
+    },
+    "insureFiProperty": {
+      "address": "0xEBfD193Ce68E6b7F5859096DB3bc5257085b8013"
+    },
+    "explorerURL": "https://sepolia.etherscan.io/"
+  }
+}
