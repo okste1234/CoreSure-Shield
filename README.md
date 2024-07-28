@@ -21,7 +21,7 @@ Insurance has traditionally been centralized, with specific companies in charge 
 ## Business Logic
 The platform aims to offer a decentralized insurance solution where the DAO votes on each proposal raised by the insured for payment.
 
-##Features
+## Features
 - Users can apply for automobile insurance.
 ![auto_insurance](https://github.com/okste1234/CoreSure-Shield/blob/main/images/auto_insurance.png)
 
