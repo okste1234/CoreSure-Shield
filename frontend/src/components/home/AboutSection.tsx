@@ -39,7 +39,7 @@ const AboutSection = (props: Props) => {
             <BoltIcon className="h-12 w-12 text-primary" />
             <h3 className="text-xl font-bold">Innovative Solutions</h3>
             <p className="text-muted-foreground">
-              We're constantly developing new products and services to meet the evolving needs of our customers.
+              We&apos;re constantly developing new products and services to meet the evolving needs of our customers.
             </p>
           </div>
           <div className="flex flex-col items-center text-center space-y-2">

@@ -28,9 +28,9 @@ const ReviewSection = (props: Props) => {
                     <span className="text-xs text-muted-foreground">Homeowner</span>
                   </div>
                   <p className="text-muted-foreground">
-                    "StarkCore has been a lifesaver for me. Their coverage is comprehensive and their
+                    &quot;StarkCore has been a lifesaver for me. Their coverage is comprehensive and their
                     customer service is top-notch. I highly recommend them to anyone looking for reliable
-                    insurance."
+                    insurance.&quot;
                   </p>
                 </div>
               </div>
@@ -47,9 +47,9 @@ const ReviewSection = (props: Props) => {
                     <span className="text-xs text-muted-foreground">Small Business Owner</span>
                   </div>
                   <p className="text-muted-foreground">
-                    "I've been with StarkCore for years and they've always been there for me. Their business
-                    insurance coverage is comprehensive and their claims process is seamless. I wouldn't trust
-                    my business with anyone else."
+                    &quot;I&apos;ve been with StarkCore for years and they&apos;ve always been there for me. Their business
+                    insurance coverage is comprehensive and their claims process is seamless. I wouldn&apos;t trust
+                    my business with anyone else.&quot;
                   </p>
                 </div>
               </div>

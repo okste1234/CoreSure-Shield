@@ -52,7 +52,7 @@ const Faq = (props: Props) => {
                             <p>
                                 Obtaining a quote from StarkCore is simple. You can start the process by visiting our website,
                                 calling our customer service team, or scheduling a consultation with one of our licensed agents.
-                                We'll work with you to understand your needs and provide a customized quote.
+                                We&apos;ll work with you to understand your needs and provide a customized quote.
                             </p>
                         </CollapsibleContent>
                     </Collapsible>
