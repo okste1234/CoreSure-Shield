@@ -11,6 +11,7 @@
 
 ## Introduction
 Coreshield is an on-chain insurance platform with a Decentralized Autonomous Organization (DAO) where anyone can insure anything from their properties to their life and have their insurance certificate on-chain. The goal is to decentralize insurance using DAO voting for each proposal raised and to ensure payments are made instantly.
+https://github.com/okste1234/CoreSure-Shield/blob/main/images/landing_page.png
 
 ## Problem Statement
 Insurance has traditionally been centralized, with specific companies in charge of your money. Coreshield provides a decentralized insurance solution.
