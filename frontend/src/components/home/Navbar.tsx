@@ -28,10 +28,10 @@ const Navbar = (props: Props) => {
           Contact
         </Link>
       </nav>
-      <Button>
+      {/* <Button>
         Connect Wallet
-      </Button>
-       {/* <w3m-button /> */}
+      </Button> */}
+       <w3m-button />
     </header>)
 }
 
