@@ -4,6 +4,7 @@
 - [Introduction](#introduction)
 - [Problem Statement](#problem-statement)
 - [Business Logic](#business-logic)
+- [Features] (#features)
 - [Implemenatation](#implemenatation)
 - [Contract Addresses](#usage)
 - [License](#license)
@@ -15,11 +16,25 @@ Coreshield is an on-chain insurance platform with a Decentralized Autonomous Org
 
 ## Problem Statement
 Insurance has traditionally been centralized, with specific companies in charge of your money. Coreshield provides a decentralized insurance solution.
+![Problem Statement](https://github.com/okste1234/CoreSure-Shield/blob/main/images/landing_page2.png)
 
 ## Business Logic
 The platform aims to offer a decentralized insurance solution where the DAO votes on each proposal raised by the insured for payment.
 
-## Implemenatation
+##Features
+- Users can apply for automobile insurance.
+![auto_insurance](https://github.com/okste1234/CoreSure-Shield/blob/main/images/auto_insurance.png)
+
+- Users can apply for property insurance.
+![property_insurance](https://github.com/okste1234/CoreSure-Shield/blob/main/images/property_insurance.png)
+
+- The DAO can vote on proposals.
+![Proposals](https://github.com/okste1234/CoreSure-Shield/blob/main/images/proposals.png)
+
+- Users can claim insurance.
+![Claims](https://github.com/okste1234/CoreSure-Shield/blob/main/images/claims.png)
+
+## Implementation
 1. Smart contracts using solidity.
 2. Core testnet token for smart contract deployment.
 3. React and Typescript for the Frontend.
@@ -34,4 +49,4 @@ Automobile  permium: 0xDfEafEae7A88b1defa72F292449F4D749a53362f
 This project is licensed under the MIT License.
 
 ## Contact
-For any inquiries or feedback, please contact us at [Coreshield](https://github.com/okste1234/CoreSure-Shield)
+For any inquiries or feedback, please get in touch with us at [Coreshield](https://github.com/okste1234/CoreSure-Shield)
