@@ -40,10 +40,10 @@ The platform aims to offer a decentralized insurance solution where the DAO vote
 3. React and Typescript for the Frontend.
 
 ## Deployed Contracts:
-- ![Property calculator](https://scan.test.btcs.network/address/0x23bD024773243fe2630FA0054473d23a0253a962)
-- Property Insurance: 0xcdbDBa075c33D8d7996d45a06D2e1b39880F759a
-- Automobile calculator: 0x5a83E641338C2096ce076D505242A064682bBBbF 
-- Automobile  permium: 0xDfEafEae7A88b1defa72F292449F4D749a53362f
+- [Property calculator](https://scan.test.btcs.network/address/0x23bD024773243fe2630FA0054473d23a0253a962)
+- [Property Insurance](https://scan.test.btcs.network/address/0xcdbDBa075c33D8d7996d45a06D2e1b39880F759a)
+- [Automobile calculator](https://scan.test.btcs.network/address/0x5a83E641338C2096ce076D505242A064682bBBbF) 
+- [Automobile Permium](https://scan.test.btcs.network/address/0xDfEafEae7A88b1defa72F292449F4D749a53362f)
 
 ## License
 This project is licensed under the MIT License.
