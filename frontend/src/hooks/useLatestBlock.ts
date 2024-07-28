@@ -1,6 +1,6 @@
 "use client"
 
-import { envVars } from "@/utils/env";
+import { envVars } from "@/lib/constants/env";
 import { ethers } from "ethers";
 import { useEffect, useState } from "react";
 
